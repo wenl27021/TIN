@@ -1,0 +1,8 @@
+tin_app.exe
+cppks.obj
+tin.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.mp4
