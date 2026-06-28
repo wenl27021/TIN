@@ -41,5 +41,3 @@ Triangles: 88
 Edges: 137
 Elevation range: 72.12 - 127.00
 ```
-
-说明：演示视频 `061242+李玟+TIN三角网生成.mp4` 大小约 145 MB，超过 GitHub 普通 Git 单文件 100 MB 限制，未作为默认上传文件；如需上传视频，建议使用 Git LFS 或发布到 Release。
