@@ -11,7 +11,6 @@
 - `tin_triangles.csv`：三角形编号及其三个顶点下标。
 - `tin_result.svg`：二维 TIN 三角网可视化结果。
 - `tin_mesh.obj`：可导入三维软件查看的 TIN 网格。
-- `061242+李玟+TIN 三角网生成.pdf`：作业报告。
 
 ## 编译与运行
 
